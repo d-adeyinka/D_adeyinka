@@ -10,5 +10,5 @@
 - ⚡ **Tools:** SQL, Spreadsheets (Google Sheets & Excel), n8n, Zapier, Make  
 - 🙋‍♀️ **Pronouns:** She/Her  
 
-### 🤝 Let’s Connect  
-[🔗 LinkedIn — Adeyinka Adeyelu](https://www.linkedin.com/in/adeyinka-adeyelu/)
+### 🤝 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyinka-adeyelu/)
