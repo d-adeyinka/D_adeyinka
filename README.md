@@ -9,3 +9,6 @@
 - 🍳 **Fun Fact:** If I weren’t in the data space, I’d probably be experimenting with recipes in the kitchen.  
 - ⚡ **Tools:** SQL, Spreadsheets (Google Sheets & Excel), n8n, Zapier, Make  
 - 🙋‍♀️ **Pronouns:** She/Her  
+
+### 🤝 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyinka-adeyelu/)
